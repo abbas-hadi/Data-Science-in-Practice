@@ -1,1 +1,1 @@
-
+DSCI-D 592 Data Science in Practice (3 cr.) Students gain critical, practical skills in applying data science to real world problems. Students will work in teams of 3-5 to tackle a real-world problem defined by a project sponsor. Project sponsors can be academics or industry practitioners. Students work with the project sponsor to understand the problem domain, identify where their data science skills can be applied, and to design, implement and test a solution.
